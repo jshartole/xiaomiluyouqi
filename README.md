@@ -85,7 +85,6 @@ Wi-Fi 6，双频2.4和5GHz，最大组合速度高达3000Mbps，OFDMA，MIMO，�
 
 **9.0**
 
-[Ver precio en aliexpress](https://www.aliexpress.com/wholesale?SearchText=xiaomi+router+ax3000t) [亚马逊非常珍贵](https://www.amazon.es/s?k=xiaomi+router+ax3000t&tag=lxblg-rnkr-21)
 
 6
 
@@ -95,7 +94,6 @@ Wi-Fi 6，双频 2.4 和 5GHz，最大组合速度高达 1800Mbps，OFDMA MU-MIM
 
 **9.0**
 
-[Ver precio en aliexpress](https://www.aliexpress.com/wholesale?SearchText=mi+router+ax1800) [亚马逊非常珍贵](https://www.amazon.es/s?k=mi+router+ax1800&tag=lxblg-rnkr-21)
 
 7
 
@@ -105,7 +103,6 @@ Wi-Fi 6，双频2.4和5GHz，最大组合速度高达1500Mbps，OFDMA，MIMO，4
 
 **8.9**
 
-[Ver precio en aliexpress](https://www.aliexpress.com/wholesale?SearchText=xiaomi+router+ax1500) [亚马逊非常珍贵](https://www.amazon.es/s?k=xiaomi+router+ax1500&tag=lxblg-rnkr-21)
 
 8
 
@@ -115,7 +112,6 @@ Wi-Fi 5，双频2.4和5GHz，最高组合速度1167Mbps，128MB内存，最多�
 
 **8.7**
 
-[Ver precio en aliexpress](https://www.aliexpress.com/wholesale?SearchText=mi+router+4a+gigabit+edition) [亚马逊非常珍贵](https://www.amazon.es/s?k=mi+router+4a+gigabit+edition&tag=lxblg-rnkr-21)
 
 9
 
@@ -125,7 +121,6 @@ Wi-Fi 5，双频2.4和5GHz，最大组合速度1167Mbps，64MB内存，最多可
 
 **8.5**
 
-[Ver precio en aliexpress](https://www.aliexpress.com/wholesale?SearchText=mi+router+4a) [亚马逊非常珍贵](https://www.amazon.es/s?k=mi+router+4a&tag=lxblg-rnkr-21)
 
 10
 
@@ -135,8 +130,6 @@ Wi-Fi 4，2.4GHz频段，最高速度300Mbps，64MB内存，最多可同时连�
 
 **8.3**
 
-[Ver precio en aliexpress](https://www.aliexpress.com/wholesale?SearchText=mi+router+4c) [亚马逊非常珍贵](https://www.amazon.es/s?k=mi+router+4c&tag=lxblg-rnkr-21)
-
 11
 
 ### 小米WiFi范围扩展器AC1200
@@ -144,8 +137,6 @@ Wi-Fi 4，2.4GHz频段，最高速度300Mbps，64MB内存，最多可同时连�
 双频 2.4 GHz 300 Mbps（802.11n，2\*2，40 MHz），5 GHz 867 Mbps（802.11ac，2\*2，80 MHz），64MB RAM，WPA-PSK / WPA2-PSK 加密，1 端口以太网。可通过米家App进行配置。
 
 **8.5**
-
-[Ver precio en aliexpress](https://www.aliexpress.com/wholesale?SearchText=mi+wifi+range+extender+ac1200) [亚马逊非常珍贵](https://www.amazon.es/s?k=mi+wifi+range+extender+ac1200&tag=lxblg-rnkr-21)
 
 12
 
